@@ -2,8 +2,8 @@
 Contributors: vinethemes
 Requires at least: WordPress 4.7
 Tested up to: WordPress 6.3.1
-Version: 1.2.8
-Stable tag: 1.2.8
+Version: 1.2.9
+Stable tag: 1.2.9
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: blue, gray, light, white, two-columns, right-sidebar, fluid-layout, custom-background, custom-menu, editor-style, featured-images, sticky-post, translation-ready
@@ -178,3 +178,7 @@ Contact Us https://www.vinethemes.com/forums.
 
 = 1.2.8 - Aug 20 2024 =
 * Minor Fixes
+
+= 1.2.9 - Feb 06 2025 =
+* Added on Github
+* Version Change
