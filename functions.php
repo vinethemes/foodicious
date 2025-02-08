@@ -135,6 +135,7 @@ function foodicious_scripts() {
 }
 add_action( 'wp_enqueue_scripts', 'foodicious_scripts' );
 
+
 function foodicious_excerpt_more( $more ) {
     if ( !is_admin()) {
         return '...';
@@ -145,7 +146,6 @@ add_filter('excerpt_more', 'foodicious_excerpt_more');
 
 
 // Widgets
-include(get_template_directory() . '/inc/widgets/about_widget.php');
 include(get_template_directory() . '/inc/widgets/social_widget.php');
 include(get_template_directory() . '/inc/widgets/category_post_widget.php');
 
